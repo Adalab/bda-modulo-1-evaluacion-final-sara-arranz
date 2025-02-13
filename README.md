@@ -29,3 +29,9 @@ Una vez entregado el ejercicio se realizará una revisión del mismo con una dur
 El feedback final que reciba de mi Proyecto servirá para reforzar seguridad en los conocimientos ya adquiridos y como soporte para integrar las 
 dificultades percibidas por el equipo técnico y seguir trabajando en ellas. 
 
+
+MEJORAS A REALIZAR:
+
+- Mayor simplicidad del código evitando tantas líneas en el mismo.
+- Implantación de la función 'input' que permita al usuario hacer uso de los métodos de la clase añadiendo él el producto. 
+
