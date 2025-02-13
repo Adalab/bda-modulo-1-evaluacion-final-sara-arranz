@@ -18,11 +18,11 @@ Comentarios añadidos en el Proyecto:
 
 Presentación de varios archivos:
 
-- Archivo correspondiente al contenido solicitado en el ejercicio.
-- Archivo correspondiente al trabajo de campo realizado a lo largo de la creación e implementación del código hasta llegar al resultado final. 
-- Archivo Final que recogerá el código ya depurado.
-- Archivo pruebas donde se proponen las líneas de código a ejecutar para comprobar si el Proyecto está correctamente elaborado (no se rompe, devuelve los contenidos explicitamente solicitados y es de fácil lectura para cualquier miembro del equipo de trabajo).
-
+- Explicación Prueba Técnica: Archivo correspondiente al contenido solicitado en el ejercicio.
+- Creación de clase: Archivo que contiene el constructor de la clase solicitada.
+- Métodos de clase: Archivo correspondiente al trabajo de campo realizado a lo largo de la creación e implementación del código hasta llegar al resultado final. 
+- Prueba Proyecto: Archivo pruebas donde se proponen las líneas de código a ejecutar para comprobar si el Proyecto está correctamente elaborado (no se rompe, devuelve los contenidos explicitamente solicitados y es de fácil lectura para cualquier miembro del equipo de trabajo).
+- Proyecto Presentación: Archivo Final que recogerá el código ya depurado.
 
 Una vez entregado el ejercicio se realizará una revisión del mismo con una duración de 20 minutos. 
 
